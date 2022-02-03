@@ -1,6 +1,6 @@
 ### Hi there! I'm Matheus Ramalho 👋
 
-- 🚀 Working on a startup called <a href="https://www.linkedin.com/company/heeds-technologies/" target="_blank">Heeds</a>.
+- 🚀 Working in a startup called <a href="https://www.linkedin.com/company/heeds-technologies/" target="_blank">Heeds</a>.
 - 🌱 I’m currently learning React Native and trying to improve on React.
 - ⚡ Always looking for solving new problems is what make me stoked about programming!
 
